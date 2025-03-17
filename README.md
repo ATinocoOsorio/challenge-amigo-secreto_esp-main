@@ -49,7 +49,7 @@ JavaScript (ES6)
 
 🔧 Posibles Problemas y Soluciones
 
-Problema	Solución
+Problema Y	Solución
 
 No se agregan nombres a la lista.	Asegúrate de escribir un nombre válido antes de presionar "Añadir".
 
