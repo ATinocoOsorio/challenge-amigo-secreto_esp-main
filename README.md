@@ -1,4 +1,7 @@
-🎁 Amigo Secreto
+<em> # 🎁 Amigo Secreto </em>
+
+![amigo-secreto](https://github.com/user-attachments/assets/ac9ca3f5-f3de-4674-b9d9-6f400b7d7cdc)
+
 
 Una aplicación web en JavaScript que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto".
 
@@ -56,3 +59,7 @@ No se agregan nombres a la lista.	Asegúrate de escribir un nombre válido antes
 Se repite un nombre en la lista.	La aplicación evita duplicados. Verifica que no hayas agregado el mismo nombre antes.
 
 No se puede sortear un amigo.	Asegúrate de agregar al menos un nombre antes de sortear.
+
+📜 Licencia
+
+Este proyecto es de código abierto y se distribuye bajo la Licencia MIT
