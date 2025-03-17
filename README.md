@@ -1,4 +1,5 @@
 🎁 Amigo Secreto
+
 Una aplicación web en JavaScript que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto".
 
 📌 Características
