@@ -1,6 +1,7 @@
-<em> # 🎁 Amigo Secreto </em>
+<h1 align="center"> 🎁 Amigo Secreto </h1>
 
-![amigo-secreto](https://github.com/user-attachments/assets/ac9ca3f5-f3de-4674-b9d9-6f400b7d7cdc)
+<h1 align="center"> ![amigo-secreto](https://github.com/user-attachments/assets/ac9ca3f5-f3de-4674-b9d9-6f400b7d7cdc) </h1>
+
 
 
 Una aplicación web en JavaScript que permite a los usuarios ingresar nombres de amigos en una lista y luego realizar un sorteo aleatorio para determinar quién es el "Amigo Secreto".
